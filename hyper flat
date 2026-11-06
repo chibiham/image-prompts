@@ -1,0 +1,13 @@
+
+```text:positive
+masterpiece,best quality,very aesthetic,high definition,absurdres,highres,ultra detailed
+cel-shading,flat shading,flat color,layered lighting,
+clear lines, solid lines,(clear edges:1.2),lineart
+anime coloring,anime style, bold colors
+
+cinematic composition,cinematic_angle
+```
+
+```text:negative
+lowres,worst quality,bad quality,bad anatomy,jpeg artifacts,signature,watermark,old,bad,text,error,fewer,extra,missing,worst quality,low quality,(too many fingers:1.2),mutated hands,bad hands,poorly drawn hands,mutated hands and fingers,fused fingers,malformed hands,watermark,unfinished,displeasing,chromatic aberration,signature,extra digits,long body,missing fingers,extra legs,long neck,deformed,mutated,disconnected limbs,malformed limbs,mutation,bad feet,extra limb,extra arms,floating limbs,missing limb,overexposed,washed out,high key
+```
